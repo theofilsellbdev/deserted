@@ -1,0 +1,11 @@
+Blender Assets:
+
+!!! This contains all assets yet to be converted to unity from blender !!!
+
+Graphical Assets:
+
+!!! This contains all assets yet to be converted to unity from photoshop, illustrator, etc... !!!
+
+Misc:
+
+!!! This contains all assets yet to be converted to unity from sound files, videos, etc... !!!
